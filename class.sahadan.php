@@ -1,4 +1,3 @@
-
 <?php
   class Sahadan {
 
@@ -24,14 +23,14 @@
     private function connect($url = null)
     {
       $ch = curl_init();
-			curl_setopt($ch, CURLOPT_HEADER, false);
-			curl_setopt($ch, CURLOPT_URL, $url ? $url : $this->eventsUrl);
-			curl_setopt($ch, CURLOPT_REFERER, $this->referrer);
-			curl_setopt($ch, CURLOPT_USERAGENT, $this->userAgent);
-			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+      curl_setopt($ch, CURLOPT_HEADER, false);
+      curl_setopt($ch, CURLOPT_URL, $url ? $url : $this->eventsUrl);
+      curl_setopt($ch, CURLOPT_REFERER, $this->referrer);
+      curl_setopt($ch, CURLOPT_USERAGENT, $this->userAgent);
+      curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
       curl_setopt($ch, CURLOPT_TIMEOUT, 20);
-			$this->data = curl_exec($ch);
-			curl_close($ch);
+      $this->data = curl_exec($ch);
+      curl_close($ch);
     }
 
     /**
