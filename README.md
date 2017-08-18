@@ -4,15 +4,15 @@ This project was developed with php. No commercial use of the project is contemp
 
 # Usage
 
-// Include the project
+Step 1: Include the project
 
 require_once('class.sahadan.php');
 
-// Define the class
+Step 2: Define the class
 
 $sahadan = new Sahadan();
 
-// List of Events
+Last Step: List of Events
 
 @return Array:
 print_r($sahadan->events());
