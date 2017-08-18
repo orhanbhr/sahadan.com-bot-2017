@@ -1,1 +1,1566 @@
-{"18.08.2017":[{"id":"2829470","code":"589","time":"04:00","mbs":"4","country":{"id":"0","name":"KOL","flag":"http:\/\/im.cdn.md\/img\/groups\/102.gif"},"league":{"id":"564","name":"Kolombiya Primera A Clausura"},"team":{"home":{"id":0,"name":"Los Millionari","hand":""},"away":{"id":0,"name":"Jaguares","hand":""}}},{"id":"2874746","code":"101","time":"21:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Leganes","hand":""},"away":{"id":0,"name":"Alaves","hand":""}}},{"id":"2828569","code":"102","time":"21:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"B.M\u00fcnih","hand":""},"away":{"id":0,"name":"B.Leverkusen","hand":""}}},{"id":"2816709","code":"103","time":"21:45","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Metz","hand":""},"away":{"id":0,"name":"Monaco","hand":""}}},{"id":"2843697","code":"104","time":"21:45","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Kasimpa\u015fa","hand":""},"away":{"id":0,"name":"Be\u015fikta\u015f","hand":""}}},{"id":"2874745","code":"105","time":"23:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Valencia","hand":""},"away":{"id":0,"name":"Las Palmas","hand":""}}}],"19.08.2017":[{"id":"2815902","code":"106","time":"14:30","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Swansea","hand":""},"away":{"id":0,"name":"Manchester Utd","hand":""}}},{"id":"2828575","code":"107","time":"16:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"Hamburg","hand":""},"away":{"id":0,"name":"Augsburg","hand":""}}},{"id":"2828571","code":"108","time":"16:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"Hertha Berlin","hand":""},"away":{"id":0,"name":"Stuttgart","hand":""}}},{"id":"2828570","code":"109","time":"16:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"Hoffenheim","hand":""},"away":{"id":0,"name":"Werder Bremen","hand":""}}},{"id":"2828576","code":"110","time":"16:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"Mainz","hand":""},"away":{"id":0,"name":"Hannover","hand":""}}},{"id":"2828577","code":"111","time":"16:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"Wolfsburg","hand":""},"away":{"id":0,"name":"B.Dortmund","hand":""}}},{"id":"2815895","code":"112","time":"17:00","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Bournemouth","hand":""},"away":{"id":0,"name":"Watford","hand":""}}},{"id":"2815896","code":"113","time":"17:00","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Burnley","hand":""},"away":{"id":0,"name":"West Bromwich","hand":""}}},{"id":"2815898","code":"114","time":"17:00","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Leicester","hand":""},"away":{"id":0,"name":"Brighton","hand":""}}},{"id":"2815899","code":"115","time":"17:00","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Liverpool","hand":""},"away":{"id":0,"name":"Crystal Palace","hand":""}}},{"id":"2816202","code":"116","time":"17:00","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Southampton","hand":""},"away":{"id":0,"name":"West Ham","hand":""}}},{"id":"2816707","code":"117","time":"18:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Lyon","hand":""},"away":{"id":0,"name":"Bordeaux","hand":""}}},{"id":"2878725","code":"118","time":"19:00","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Juventus","hand":""},"away":{"id":0,"name":"Cagliari","hand":""}}},{"id":"2843692","code":"123","time":"19:00","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Karab\u00fckspor","hand":""},"away":{"id":0,"name":"\u0130stanbul Ba\u015fak\u015f","hand":""}}},{"id":"2874738","code":"119","time":"19:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Celta Vigo","hand":""},"away":{"id":0,"name":"Real Sociedad","hand":""}}},{"id":"2815901","code":"120","time":"19:30","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Stoke","hand":""},"away":{"id":0,"name":"Arsenal","hand":""}}},{"id":"2828574","code":"121","time":"19:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"Schalke","hand":""},"away":{"id":0,"name":"Rb Leipzig","hand":""}}},{"id":"2843693","code":"122","time":"19:45","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Bursaspor","hand":""},"away":{"id":0,"name":"Alanyaspor","hand":""}}},{"id":"2816710","code":"124","time":"21:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Montpellier","hand":""},"away":{"id":0,"name":"Strasbourg","hand":""}}},{"id":"2816711","code":"125","time":"21:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Nice","hand":""},"away":{"id":0,"name":"Guingamp","hand":""}}},{"id":"2816713","code":"126","time":"21:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Rennes","hand":""},"away":{"id":0,"name":"Dijon","hand":""}}},{"id":"2816714","code":"127","time":"21:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"St Etienne","hand":""},"away":{"id":0,"name":"Amiens","hand":""}}},{"id":"2816715","code":"128","time":"21:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Troyes","hand":""},"away":{"id":0,"name":"Nantes","hand":""}}},{"id":"2874740","code":"129","time":"21:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Girona","hand":""},"away":{"id":0,"name":"Atletico Madrid","hand":""}}},{"id":"2878723","code":"130","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Verona","hand":""},"away":{"id":0,"name":"Napoli","hand":""}}},{"id":"2843695","code":"131","time":"21:45","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Osmanlispor","hand":""},"away":{"id":0,"name":"Galatasaray","hand":""}}},{"id":"2843690","code":"132","time":"21:45","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Sivasspor","hand":""},"away":{"id":0,"name":"Yeni Malatyaspo","hand":""}}},{"id":"2874741","code":"133","time":"23:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Sevilla","hand":""},"away":{"id":0,"name":"Espanyol","hand":""}}}],"20.08.2017":[{"id":"2815897","code":"134","time":"15:30","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Huddersfield","hand":""},"away":{"id":0,"name":"Newcastle Utd","hand":""}}},{"id":"2816706","code":"135","time":"16:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Lille","hand":""},"away":{"id":0,"name":"Caen","hand":""}}},{"id":"2828572","code":"136","time":"16:30","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"Freiburg","hand":""},"away":{"id":0,"name":"E.Frankfurt","hand":""}}},{"id":"2815903","code":"137","time":"18:00","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Tottenham","hand":""},"away":{"id":0,"name":"Chelsea","hand":""}}},{"id":"2816708","code":"138","time":"18:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Marsilya","hand":""},"away":{"id":0,"name":"Angers","hand":""}}},{"id":"2828573","code":"139","time":"19:00","mbs":"3","country":{"id":"0","name":"AL1","flag":"http:\/\/im.cdn.md\/img\/groups\/2.gif"},"league":{"id":"3","name":"Almanya Bundesliga"},"team":{"home":{"id":0,"name":"M Gladbach","hand":""},"away":{"id":0,"name":"K\u00f6ln","hand":""}}},{"id":"2878720","code":"140","time":"19:00","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Atalanta","hand":""},"away":{"id":0,"name":"Roma","hand":""}}},{"id":"2874739","code":"141","time":"19:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Athletic Bilba","hand":""},"away":{"id":0,"name":"Getafe","hand":""}}},{"id":"2843696","code":"142","time":"20:00","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Kayserispor","hand":""},"away":{"id":0,"name":"G\u00f6ztepe","hand":""}}},{"id":"2748219","code":"527","time":"20:00","mbs":"4","country":{"id":"0","name":"\u0130S\u00c73","flag":"http:\/\/im.cdn.md\/img\/groups\/15.gif"},"league":{"id":"755","name":"\u0130sve\u00e7 1.Lig G\u00fcney"},"team":{"home":{"id":0,"name":"Landskrona","hand":""},"away":{"id":0,"name":"Husqvarna","hand":""}}},{"id":"2874743","code":"143","time":"21:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Barcelona","hand":""},"away":{"id":0,"name":"R.Betis","hand":"(H:2)"}}},{"id":"2878721","code":"144","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Bologna","hand":""},"away":{"id":0,"name":"Torino","hand":""}}},{"id":"2878722","code":"145","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Crotone","hand":""},"away":{"id":0,"name":"Ac Milan","hand":""}}},{"id":"2878724","code":"146","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Inter","hand":""},"away":{"id":0,"name":"Fiorentina","hand":""}}},{"id":"2878726","code":"147","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Lazio","hand":""},"away":{"id":0,"name":"Spal","hand":""}}},{"id":"2878727","code":"148","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Sampdoria","hand":""},"away":{"id":0,"name":"Benevento","hand":""}}},{"id":"2878728","code":"149","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Sassuolo","hand":""},"away":{"id":0,"name":"Genoa","hand":""}}},{"id":"2878729","code":"150","time":"21:45","mbs":"3","country":{"id":"0","name":"\u0130TA","flag":"http:\/\/im.cdn.md\/img\/groups\/10.gif"},"league":{"id":"15","name":"\u0130talya Serie A"},"team":{"home":{"id":0,"name":"Udinese","hand":""},"away":{"id":0,"name":"Chievo","hand":""}}},{"id":"2843694","code":"151","time":"21:45","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Antalyaspor","hand":""},"away":{"id":0,"name":"Akhisar Bld.Spo","hand":""}}},{"id":"2843698","code":"152","time":"21:45","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Fenerbah\u00e7e","hand":""},"away":{"id":0,"name":"Trabzonspor","hand":""}}},{"id":"2816712","code":"153","time":"22:00","mbs":"3","country":{"id":"0","name":"FR1","flag":"http:\/\/im.cdn.md\/img\/groups\/3.gif"},"league":{"id":"5","name":"Fransa Ligue 1"},"team":{"home":{"id":0,"name":"Paris St Germa","hand":""},"away":{"id":0,"name":"Toulouse","hand":"(H:2)"}}},{"id":"2874744","code":"154","time":"23:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"D.La Coruna","hand":""},"away":{"id":0,"name":"Real Madrid","hand":""}}}],"21.08.2017":[{"id":"2874737","code":"155","time":"21:15","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Levante","hand":""},"away":{"id":0,"name":"Villarreal","hand":""}}},{"id":"2843691","code":"156","time":"21:45","mbs":"3","country":{"id":"0","name":"SSL","flag":"http:\/\/im.cdn.md\/img\/groups\/1.gif"},"league":{"id":"1","name":"T\u00fcrkiye S\u00fcper Lig"},"team":{"home":{"id":0,"name":"Konyaspor","hand":""},"away":{"id":0,"name":"Gen\u00e7lerbirli\u011fi","hand":""}}},{"id":"2815900","code":"157","time":"22:00","mbs":"3","country":{"id":"0","name":"\u0130NP","flag":"http:\/\/im.cdn.md\/img\/groups\/17.gif"},"league":{"id":"24","name":"\u0130ngiltere Premier Lig"},"team":{"home":{"id":0,"name":"Manchester Cit","hand":""},"away":{"id":0,"name":"Everton","hand":""}}},{"id":"2874742","code":"158","time":"23:00","mbs":"3","country":{"id":"0","name":"\u0130S1","flag":"http:\/\/im.cdn.md\/img\/groups\/14.gif"},"league":{"id":"20","name":"\u0130spanya Primera Lig"},"team":{"home":{"id":0,"name":"Malaga","hand":""},"away":{"id":0,"name":"Eibar","hand":""}}}]}
+{
+    "18.08.2017": [{
+        "id": "2829470",
+        "code": "589",
+        "time": "04:00",
+        "mbs": "4",
+        "country": {
+            "id": "0",
+            "name": "KOL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/102.gif"
+        },
+        "league": {
+            "id": "564",
+            "name": "Kolombiya Primera A Clausura"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Los Millionari",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Jaguares",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874746",
+        "code": "101",
+        "time": "21:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Leganes",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Alaves",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828569",
+        "code": "102",
+        "time": "21:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "B.M\u00fcnih",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "B.Leverkusen",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816709",
+        "code": "103",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Metz",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Monaco",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843697",
+        "code": "104",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Kasimpa\u015fa",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Be\u015fikta\u015f",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874745",
+        "code": "105",
+        "time": "23:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Valencia",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Las Palmas",
+                "hand": ""
+            }
+        }
+    }],
+    "19.08.2017": [{
+        "id": "2815902",
+        "code": "106",
+        "time": "14:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Swansea",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Manchester Utd",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828575",
+        "code": "107",
+        "time": "16:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Hamburg",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Augsburg",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828571",
+        "code": "108",
+        "time": "16:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Hertha Berlin",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Stuttgart",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828570",
+        "code": "109",
+        "time": "16:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Hoffenheim",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Werder Bremen",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828576",
+        "code": "110",
+        "time": "16:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Mainz",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Hannover",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828577",
+        "code": "111",
+        "time": "16:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Wolfsburg",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "B.Dortmund",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2815895",
+        "code": "112",
+        "time": "17:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Bournemouth",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Watford",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2815896",
+        "code": "113",
+        "time": "17:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Burnley",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "West Bromwich",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2815898",
+        "code": "114",
+        "time": "17:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Leicester",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Brighton",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2815899",
+        "code": "115",
+        "time": "17:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Liverpool",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Crystal Palace",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816202",
+        "code": "116",
+        "time": "17:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Southampton",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "West Ham",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816707",
+        "code": "117",
+        "time": "18:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Lyon",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Bordeaux",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878725",
+        "code": "118",
+        "time": "19:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Juventus",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Cagliari",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843692",
+        "code": "123",
+        "time": "19:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Karab\u00fckspor",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "\u0130stanbul Ba\u015fak\u015f",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874738",
+        "code": "119",
+        "time": "19:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Celta Vigo",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Real Sociedad",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2815901",
+        "code": "120",
+        "time": "19:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Stoke",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Arsenal",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828574",
+        "code": "121",
+        "time": "19:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Schalke",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Rb Leipzig",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843693",
+        "code": "122",
+        "time": "19:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Bursaspor",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Alanyaspor",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816710",
+        "code": "124",
+        "time": "21:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Montpellier",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Strasbourg",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816711",
+        "code": "125",
+        "time": "21:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Nice",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Guingamp",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816713",
+        "code": "126",
+        "time": "21:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Rennes",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Dijon",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816714",
+        "code": "127",
+        "time": "21:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "St Etienne",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Amiens",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816715",
+        "code": "128",
+        "time": "21:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Troyes",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Nantes",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874740",
+        "code": "129",
+        "time": "21:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Girona",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Atletico Madrid",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878723",
+        "code": "130",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Verona",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Napoli",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843695",
+        "code": "131",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Osmanlispor",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Galatasaray",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843690",
+        "code": "132",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Sivasspor",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Yeni Malatyaspo",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874741",
+        "code": "133",
+        "time": "23:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Sevilla",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Espanyol",
+                "hand": ""
+            }
+        }
+    }],
+    "20.08.2017": [{
+        "id": "2815897",
+        "code": "134",
+        "time": "15:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Huddersfield",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Newcastle Utd",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816706",
+        "code": "135",
+        "time": "16:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Lille",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Caen",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828572",
+        "code": "136",
+        "time": "16:30",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Freiburg",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "E.Frankfurt",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2815903",
+        "code": "137",
+        "time": "18:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Tottenham",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Chelsea",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816708",
+        "code": "138",
+        "time": "18:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Marsilya",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Angers",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2828573",
+        "code": "139",
+        "time": "19:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "AL1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/2.gif"
+        },
+        "league": {
+            "id": "3",
+            "name": "Almanya Bundesliga"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "M Gladbach",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "K\u00f6ln",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878720",
+        "code": "140",
+        "time": "19:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Atalanta",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Roma",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874739",
+        "code": "141",
+        "time": "19:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Athletic Bilba",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Getafe",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843696",
+        "code": "142",
+        "time": "20:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Kayserispor",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "G\u00f6ztepe",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2748219",
+        "code": "527",
+        "time": "20:00",
+        "mbs": "4",
+        "country": {
+            "id": "0",
+            "name": "\u0130S\u00c73",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/15.gif"
+        },
+        "league": {
+            "id": "755",
+            "name": "\u0130sve\u00e7 1.Lig G\u00fcney"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Landskrona",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Husqvarna",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874743",
+        "code": "143",
+        "time": "21:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Barcelona",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "R.Betis",
+                "hand": "(H:2)"
+            }
+        }
+    }, {
+        "id": "2878721",
+        "code": "144",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Bologna",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Torino",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878722",
+        "code": "145",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Crotone",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Ac Milan",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878724",
+        "code": "146",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Inter",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Fiorentina",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878726",
+        "code": "147",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Lazio",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Spal",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878727",
+        "code": "148",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Sampdoria",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Benevento",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878728",
+        "code": "149",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Sassuolo",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Genoa",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2878729",
+        "code": "150",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130TA",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/10.gif"
+        },
+        "league": {
+            "id": "15",
+            "name": "\u0130talya Serie A"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Udinese",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Chievo",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843694",
+        "code": "151",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Antalyaspor",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Akhisar Bld.Spo",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843698",
+        "code": "152",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Fenerbah\u00e7e",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Trabzonspor",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2816712",
+        "code": "153",
+        "time": "22:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "FR1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/3.gif"
+        },
+        "league": {
+            "id": "5",
+            "name": "Fransa Ligue 1"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Paris St Germa",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Toulouse",
+                "hand": "(H:2)"
+            }
+        }
+    }, {
+        "id": "2874744",
+        "code": "154",
+        "time": "23:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "D.La Coruna",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Real Madrid",
+                "hand": ""
+            }
+        }
+    }],
+    "21.08.2017": [{
+        "id": "2874737",
+        "code": "155",
+        "time": "21:15",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Levante",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Villarreal",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2843691",
+        "code": "156",
+        "time": "21:45",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "SSL",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/1.gif"
+        },
+        "league": {
+            "id": "1",
+            "name": "T\u00fcrkiye S\u00fcper Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Konyaspor",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Gen\u00e7lerbirli\u011fi",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2815900",
+        "code": "157",
+        "time": "22:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130NP",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/17.gif"
+        },
+        "league": {
+            "id": "24",
+            "name": "\u0130ngiltere Premier Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Manchester Cit",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Everton",
+                "hand": ""
+            }
+        }
+    }, {
+        "id": "2874742",
+        "code": "158",
+        "time": "23:00",
+        "mbs": "3",
+        "country": {
+            "id": "0",
+            "name": "\u0130S1",
+            "flag": "http:\/\/im.cdn.md\/img\/groups\/14.gif"
+        },
+        "league": {
+            "id": "20",
+            "name": "\u0130spanya Primera Lig"
+        },
+        "team": {
+            "home": {
+                "id": 0,
+                "name": "Malaga",
+                "hand": ""
+            },
+            "away": {
+                "id": 0,
+                "name": "Eibar",
+                "hand": ""
+            }
+        }
+    }]
+}
