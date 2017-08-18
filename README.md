@@ -20,6 +20,12 @@ print_r($sahadan->events());
 @return Object:
 echo json_encode($sahadan->events());
 
+# System Requirements
+
+PHP >= 5.6
+
+cURL Extension
+
 # Contributing
 
 If you would like to contribute to this project, please send your changes to the required site address. https://github.com/orhanbhr/sahadan.com-bot-2017/pulls
